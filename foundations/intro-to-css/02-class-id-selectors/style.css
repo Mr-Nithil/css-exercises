@@ -1,0 +1,19 @@
+ .odd_element_style,
+ .third_element_style {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+ }
+
+ #second_element_style {
+    color: #0000ff;
+    font-size: 36px;
+ }
+
+ .third_element_style {
+    font-size: 24px;
+ }
+
+ #fourth_element_style {
+    background-color: lightgreen;
+    font-weight: bold;
+ }
