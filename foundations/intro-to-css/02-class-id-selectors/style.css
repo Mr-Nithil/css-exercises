@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+/* Add CSS Styling */ 
+.odd-elements {
+    background-color: rgb(229, 88, 88);
+    font-family: Verdana , "DejaVu Sans" ,sans-serif ;
+}
+
+#second-element {
+    color: rgb(17, 65, 200);
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(26, 213, 23);
+    /* font-size: 24px; No need as we can chain this with third element */
+    font-weight: bold;
+}
